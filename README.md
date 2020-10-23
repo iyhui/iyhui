@@ -1,7 +1,7 @@
-##  Welcome to my page! I'm Ida 👩🏻‍💻
+##  You stumbled across my page! 👩🏻‍💻
 
 #### About me 
-I'm a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-together, travelling the world, drawing, or cooking.
+I'm Ida - a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-together, travelling the world, drawing, or cooking.
 #### My Tech Stack
 
 ![](
