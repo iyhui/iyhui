@@ -9,6 +9,9 @@ https://img.icons8.com/color/24/000000/html-5.png)
 https://img.icons8.com/color/24/000000/css3.png)
 ![](
 https://img.icons8.com/color/24/000000/angularjs.png)
+![](
+https://img.icons8.com/color/24/000000/mongodb.png)
+
 
 
 
