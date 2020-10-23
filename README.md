@@ -1,7 +1,7 @@
 ##  Welcome to my page! I'm Ida 👩🏻‍💻
 
 #### About me 
-I'm a CS grad with a passion for frontend and UX.
+I'm a developer and designer who loves to learn and create.
 #### My Tech Stack
 
 ![](
