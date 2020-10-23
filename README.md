@@ -1,4 +1,4 @@
-##  Welcome to my page! I'm Ida 
+##  Welcome to my page! I'm Ida 🧙
 
 #### My Tech Stack
 
