@@ -7,7 +7,6 @@
 
 👩🏻‍🎓 - BS - Computer Science, AS - Mathematics & Computer Science
 
-📚 - Currently advancing my skills on Udemy
 #### My Tech Stack
 
 ![](
