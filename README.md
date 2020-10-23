@@ -1,6 +1,6 @@
 ##  Welcome to my page! I'm Ida 
 
-Tech Stack
+###Tech Stack
 
 ![](
 https://img.icons8.com/color/40/000000/html-5.png)
