@@ -1,9 +1,9 @@
-##  You stumbled across my profile! Welcome 🎈
+##  You stumbled across my profile! Welcome ✨
 
 #### About me 
-I'm Ida - a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, drawing, or cooking.
+👩🏻‍💻 - I'm Ida - a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, drawing, or cooking.
 
-👩🏻‍💻 - ENTP, Ravenclaw
+🌸 - ENTP, Ravenclaw
 #### My Tech Stack
 
 ![](
