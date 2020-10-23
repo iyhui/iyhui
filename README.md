@@ -1,5 +1,7 @@
-##  Welcome to my page! I'm Ida 🧙
+##  Welcome to my page! I'm Ida 👩🏻‍💻
 
+#### About me 
+I'm a CS grad with a passion for frontend and UX.
 #### My Tech Stack
 
 ![](
