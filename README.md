@@ -15,8 +15,6 @@ https://img.icons8.com/color/32/000000/nodejs.png)
 ![](
 https://img.icons8.com/color/32/000000/angularjs.png)
 ![](
-https://img.icons8.com/color/32/000000/mongodb.png)
-![](
 https://img.icons8.com/fluent/32/000000/swift.png)
 ![](
 https://img.icons8.com/color/32/000000/c-programming.png)
