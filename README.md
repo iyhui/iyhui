@@ -14,7 +14,7 @@ https://github.com/iyhui/IconStorage/blob/master/iconfinder_5352_-_HTML5_1313567
 ![](
 https://github.com/iyhui/IconStorage/blob/master/html-5-use.png)
 ![](
-https://github.com/iyhui/IconStorage/blob/master/html-5-use2.png)
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 ![](
 https://img.icons8.com/color/24/000000/css3.png)
 ![](
