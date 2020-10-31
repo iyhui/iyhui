@@ -13,7 +13,7 @@
 
 #### Design Tools I use
 
-<img width="32px" alt="Figma" src="https://user-images.githubusercontent.com/36140849/97772821-d65be600-1b07-11eb-80f4-1a867924348d.png" />
+<img width="34px" alt="Figma" src="https://user-images.githubusercontent.com/36140849/97772821-d65be600-1b07-11eb-80f4-1a867924348d.png" />
 
 <img width="30px" alt="Sketch" src="https://user-images.githubusercontent.com/36140849/97772822-d6f47c80-1b07-11eb-8228-d08587efd68f.png" />
 
