@@ -13,17 +13,7 @@
 
 #### Design Tools I use
 
-<img width="34px" alt="Figma" src="https://user-images.githubusercontent.com/36140849/97772821-d65be600-1b07-11eb-80f4-1a867924348d.png" />
-
-<img width="30px" alt="Sketch" src="https://user-images.githubusercontent.com/36140849/97772822-d6f47c80-1b07-11eb-8228-d08587efd68f.png" />
-
-<img width="30px" alt="ID" src="https://user-images.githubusercontent.com/36140849/97772823-d78d1300-1b07-11eb-8b81-fa2c5858b79d.png" />
-
-<img width="30px" alt="LR" src="https://user-images.githubusercontent.com/36140849/97772824-d78d1300-1b07-11eb-9475-1b48e1a25cd5.png" />
-
-<img width="30px" alt="AI" src="https://user-images.githubusercontent.com/36140849/97772825-d825a980-1b07-11eb-9bea-a750906b72e6.png" />
-
-<img width="30px" alt="PS" src="https://user-images.githubusercontent.com/36140849/97772829-d8be4000-1b07-11eb-882f-5ecae5908458.png" />
+<img width="34px" alt="Figma" src="https://user-images.githubusercontent.com/36140849/97772821-d65be600-1b07-11eb-80f4-1a867924348d.png" /> <img width="30px" alt="Sketch" src="https://user-images.githubusercontent.com/36140849/97772822-d6f47c80-1b07-11eb-8228-d08587efd68f.png" /> <img width="30px" alt="ID" src="https://user-images.githubusercontent.com/36140849/97772823-d78d1300-1b07-11eb-8b81-fa2c5858b79d.png" /> <img width="30px" alt="LR" src="https://user-images.githubusercontent.com/36140849/97772824-d78d1300-1b07-11eb-9475-1b48e1a25cd5.png" /> <img width="30px" alt="AI" src="https://user-images.githubusercontent.com/36140849/97772825-d825a980-1b07-11eb-9bea-a750906b72e6.png" /> <img width="30px" alt="PS" src="https://user-images.githubusercontent.com/36140849/97772829-d8be4000-1b07-11eb-882f-5ecae5908458.png" />
 
 #### My favorite (programming related) quote 
 > Documentation is like family. Sometimes they're hard to deal with but they'll always be there for you.
