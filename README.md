@@ -3,7 +3,7 @@
 #### About me 
 👩🏻‍💻 - I'm Ida - a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, drawing, or cooking.
 
-🌸 - ENTP, Ravenclaw
+🌸 - ENTP, Ravenclaw, Sagittarius
 
 👩🏻‍🎓 - BS - Computer Science, AS - Mathematics & Computer Science
 
