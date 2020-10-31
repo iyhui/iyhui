@@ -9,7 +9,7 @@
 
 #### My Tech Stack
 
-<img width="24px" src="ttps://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+![iconfinder_code-programming-javascript-software-develop-command-language_652581](https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png)
 
 
 #### My favorite (programming related) quote 
