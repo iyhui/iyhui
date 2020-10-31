@@ -9,7 +9,7 @@
 
 #### My Tech Stack
 
-<img width="24px" alt="HTML5" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" alt="NodeJS"src="https://user-images.githubusercontent.com/36140849/97772467-bd9e0100-1b04-11eb-8cad-3e5e2518f331.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" alt="HTML5" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" alt="NodeJS" src="https://user-images.githubusercontent.com/36140849/97772467-bd9e0100-1b04-11eb-8cad-3e5e2518f331.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" /><img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
 
 
 
