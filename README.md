@@ -9,6 +9,8 @@
 
 #### My Tech Stack
 
+<img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
 ![iconfinder_code-programming-javascript-software-develop-command-language_652581](https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png)
 
 
