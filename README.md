@@ -9,7 +9,12 @@
 
 #### My Tech Stack
 
-<img align="left" width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
+<img width="24px" src="https://user-images.githubusercontent.com/36140849/97772202-01433b80-1b02-11eb-9c52-579895a18ad1.png" />
 
 
 
