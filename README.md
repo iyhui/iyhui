@@ -1,7 +1,7 @@
 ##  You stumbled across my profile! Welcome ✨
 
 #### About me 
-👩🏻‍💻 - I'm Ida - a developer and designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, drawing what inspires me, or testing recipes of my favorite dishes.
+👩🏻‍💻 - I'm Ida - a fullstack developer and product/UX designer who loves to learn, create, and grow. When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, drawing what inspires me, or testing recipes of my favorite dishes.
 
 👩🏻‍🎓 - BS - Computer Science, AS - Mathematics & Computer Science
 
