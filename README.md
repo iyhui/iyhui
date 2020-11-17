@@ -5,7 +5,7 @@
 
 👩🏻‍🎓 - BS - Computer Science, AS - Mathematics & Computer Science
 
-🌸 - ENTP, Ravenclaw, Sagittarius
+💁🏻‍♀️ - ENTP, Ravenclaw, Sagittarius
 
 #### My Tech Stack
 
